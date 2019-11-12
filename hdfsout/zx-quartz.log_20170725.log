@@ -1,0 +1,20 @@
+2017-07-25 00:10:00 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:autoReceipt|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-25 00:10:00 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[INFO] - timeKeyValue：2017-07-25
+2017-07-25 00:10:00 [org.apache.activemq.transport.failover.FailoverTransport]-[INFO] - Successfully connected to tcp://192.168.6.99:61616?wireFormat.maxInactivityDuration=1000
+2017-07-25 00:10:00 [org.springframework.jms.connection.SingleConnectionFactory]-[INFO] - Established shared JMS Connection: PooledConnection { ConnectionPool[ActiveMQConnection {id=ID:pandy-MacBook-Pro.local-64734-1500874678864-1:2,clientId=null,started=false}] }
+2017-07-25 00:10:00 [com.zhongxin.quartz.service.impl.NoticeServiceImpl]-[INFO] - quartzTopic send succeedautoReceipt,zc-timer,
+2017-07-25 02:06:47 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:compareAccounts|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-25 02:06:47 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[INFO] - timeKeyValue：2017-07-25
+2017-07-25 02:06:47 [com.zhongxin.quartz.service.impl.NoticeServiceImpl]-[INFO] - quartzTopic send succeedcompareAccounts,zc-timer,
+2017-07-25 11:09:47 [org.apache.activemq.transport.failover.FailoverTransport]-[WARN] - Transport (tcp://192.168.6.99:61616) failed, reason:  java.io.EOFException, attempting to automatically reconnect
+2017-07-25 11:09:47 [org.apache.activemq.transport.failover.FailoverTransport]-[WARN] - Transport (tcp://192.168.6.99:61616) failed, reason:  java.io.EOFException, attempting to automatically reconnect
+2017-07-25 11:09:49 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Closing WebApplicationContext for namespace 'spring-servlet': startup date [Mon Jul 24 13:37:59 CST 2017]; parent: Root WebApplicationContext
+2017-07-25 11:09:49 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Stopping beans in phase 2147483647
+2017-07-25 11:09:49 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler schedulerBean_$_NON_CLUSTERED paused.
+2017-07-25 11:09:49 [org.springframework.scheduling.quartz.SchedulerFactoryBean]-[INFO] - Shutting down Quartz Scheduler
+2017-07-25 11:09:49 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler schedulerBean_$_NON_CLUSTERED shutting down.
+2017-07-25 11:09:49 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler schedulerBean_$_NON_CLUSTERED paused.
+2017-07-25 11:09:49 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler schedulerBean_$_NON_CLUSTERED shutdown complete.
+2017-07-25 11:09:49 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Closing Root WebApplicationContext: startup date [Mon Jul 24 13:37:58 CST 2017]; root of context hierarchy
+2017-07-25 11:09:49 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Stopping beans in phase 2147483647
+2017-07-25 11:09:50 [org.springframework.beans.factory.support.DisposableBeanAdapter]-[WARN] - Invocation of destroy method 'close' failed on bean with name 'sqlSessionTemplate': java.lang.UnsupportedOperationException: Manual close is not allowed over a Spring managed SqlSession

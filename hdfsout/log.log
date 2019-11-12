@@ -1,0 +1,12 @@
+[INFO][2017-08-02 15:20:50,327][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[FATAL][2017-08-02 15:20:53,569][cn.jeeweb.core.utils.sms.sender.huyi.HuyiRestSDK]初始化异常:accountName或accountPassword为空
+[INFO][2017-08-02 15:20:55,602][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.1.Final
+[INFO][2017-08-04 14:31:29,842][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[FATAL][2017-08-04 14:31:32,778][cn.jeeweb.core.utils.sms.sender.huyi.HuyiRestSDK]初始化异常:accountName或accountPassword为空
+[INFO][2017-08-04 14:31:34,473][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.1.Final
+[INFO][2017-08-04 15:35:56,613][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[FATAL][2017-08-04 15:36:00,622][cn.jeeweb.core.utils.sms.sender.huyi.HuyiRestSDK]初始化异常:accountName或accountPassword为空
+[INFO][2017-08-04 15:36:02,635][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.1.Final
+[INFO][2017-08-04 17:24:35,970][com.alibaba.druid.pool.DruidDataSource]{dataSource-1} inited
+[FATAL][2017-08-04 17:24:39,461][cn.jeeweb.core.utils.sms.sender.huyi.HuyiRestSDK]初始化异常:accountName或accountPassword为空
+[INFO][2017-08-04 17:24:41,296][org.hibernate.validator.internal.util.Version]HV000001: Hibernate Validator 5.1.1.Final

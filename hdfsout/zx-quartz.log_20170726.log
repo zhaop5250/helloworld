@@ -1,0 +1,239 @@
+2017-07-26 16:24:49 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 16:24:50 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 16:24:50 CST 2017]; root of context hierarchy
+2017-07-26 16:24:50 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 16:24:50 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 16:24:50 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 16:24:50 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 16:24:50 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 16:24:50 [com.mchange.v2.c3p0.management.ActiveManagementCoordinator]-[WARN] - A C3P0Registry mbean is already registered. This probably means that an application using c3p0 was undeployed, but not all PooledDataSources were closed prior to undeployment. This may lead to resource leaks over time. Please take care to close all PooledDataSources.
+2017-07-26 16:24:50 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 16:38:33 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 16:38:33 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 16:38:33 CST 2017]; root of context hierarchy
+2017-07-26 16:38:33 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 16:38:34 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 16:38:34 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 16:38:34 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 16:38:34 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 16:38:34 [com.mchange.v2.c3p0.management.ActiveManagementCoordinator]-[WARN] - A C3P0Registry mbean is already registered. This probably means that an application using c3p0 was undeployed, but not all PooledDataSources were closed prior to undeployment. This may lead to resource leaks over time. Please take care to close all PooledDataSources.
+2017-07-26 16:38:34 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 16:49:07 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 16:49:07 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 16:49:07 CST 2017]; root of context hierarchy
+2017-07-26 16:49:07 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 16:49:07 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 16:49:07 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 16:49:07 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 16:49:07 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 16:49:07 [com.mchange.v2.c3p0.management.ActiveManagementCoordinator]-[WARN] - A C3P0Registry mbean is already registered. This probably means that an application using c3p0 was undeployed, but not all PooledDataSources were closed prior to undeployment. This may lead to resource leaks over time. Please take care to close all PooledDataSources.
+2017-07-26 16:49:07 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 16:55:26 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 16:55:27 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 16:55:27 CST 2017]; root of context hierarchy
+2017-07-26 16:55:27 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 16:55:27 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 16:55:27 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 16:55:27 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 16:55:27 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 16:55:27 [com.mchange.v2.c3p0.management.ActiveManagementCoordinator]-[WARN] - A C3P0Registry mbean is already registered. This probably means that an application using c3p0 was undeployed, but not all PooledDataSources were closed prior to undeployment. This may lead to resource leaks over time. Please take care to close all PooledDataSources.
+2017-07-26 16:55:27 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 17:05:10 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 17:05:10 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 17:05:10 CST 2017]; root of context hierarchy
+2017-07-26 17:05:10 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 17:05:10 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 17:05:10 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 17:05:10 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 17:05:10 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 17:05:10 [com.mchange.v2.c3p0.management.ActiveManagementCoordinator]-[WARN] - A C3P0Registry mbean is already registered. This probably means that an application using c3p0 was undeployed, but not all PooledDataSources were closed prior to undeployment. This may lead to resource leaks over time. Please take care to close all PooledDataSources.
+2017-07-26 17:05:10 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 17:08:41 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 17:08:41 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 17:08:41 CST 2017]; root of context hierarchy
+2017-07-26 17:08:41 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 17:08:41 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 17:08:41 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 17:08:41 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 17:08:41 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 17:08:41 [com.mchange.v2.c3p0.management.ActiveManagementCoordinator]-[WARN] - A C3P0Registry mbean is already registered. This probably means that an application using c3p0 was undeployed, but not all PooledDataSources were closed prior to undeployment. This may lead to resource leaks over time. Please take care to close all PooledDataSources.
+2017-07-26 17:08:41 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 17:21:09 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 17:21:09 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 17:21:09 CST 2017]; root of context hierarchy
+2017-07-26 17:21:09 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 17:21:09 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 17:21:09 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 17:21:09 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 17:21:09 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 17:21:09 [com.mchange.v2.c3p0.management.ActiveManagementCoordinator]-[WARN] - A C3P0Registry mbean is already registered. This probably means that an application using c3p0 was undeployed, but not all PooledDataSources were closed prior to undeployment. This may lead to resource leaks over time. Please take care to close all PooledDataSources.
+2017-07-26 17:21:10 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 17:28:08 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 17:28:08 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 17:28:08 CST 2017]; root of context hierarchy
+2017-07-26 17:28:08 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 17:28:08 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 17:28:08 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 17:28:08 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 17:28:08 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 17:28:08 [com.mchange.v2.c3p0.management.ActiveManagementCoordinator]-[WARN] - A C3P0Registry mbean is already registered. This probably means that an application using c3p0 was undeployed, but not all PooledDataSources were closed prior to undeployment. This may lead to resource leaks over time. Please take care to close all PooledDataSources.
+2017-07-26 17:28:09 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 17:38:05 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 17:38:05 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 17:38:05 CST 2017]; root of context hierarchy
+2017-07-26 17:38:05 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 17:38:05 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 17:38:05 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 17:38:05 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 17:38:05 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 17:38:05 [com.mchange.v2.c3p0.management.ActiveManagementCoordinator]-[WARN] - A C3P0Registry mbean is already registered. This probably means that an application using c3p0 was undeployed, but not all PooledDataSources were closed prior to undeployment. This may lead to resource leaks over time. Please take care to close all PooledDataSources.
+2017-07-26 17:38:05 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 17:47:07 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 17:47:07 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 17:47:07 CST 2017]; root of context hierarchy
+2017-07-26 17:47:07 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/dtd_catalog/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 17:47:07 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/dtd_catalog/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 17:47:07 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/dtd_catalog/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 17:47:07 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 17:47:07 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 17:47:08 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 17:47:08 [org.apache.activemq.transport.failover.FailoverTransport]-[INFO] - Successfully connected to tcp://192.168.6.99:61616?wireFormat.maxInactivityDuration=1000
+2017-07-26 17:47:08 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization completed in 1258 ms
+2017-07-26 17:47:08 [org.springframework.web.servlet.DispatcherServlet]-[INFO] - FrameworkServlet 'spring': initialization started
+2017-07-26 17:47:08 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing WebApplicationContext for namespace 'spring-servlet': startup date [Wed Jul 26 17:47:08 CST 2017]; parent: Root WebApplicationContext
+2017-07-26 17:47:08 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from URL [file:/Users/zhaopan5250/Downloads/dtd_catalog/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-mvc.xml]
+2017-07-26 17:47:08 [org.quartz.impl.StdSchedulerFactory]-[INFO] - Using default implementation for ThreadExecutor
+2017-07-26 17:47:08 [org.quartz.core.SchedulerSignalerImpl]-[INFO] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2017-07-26 17:47:08 [org.quartz.core.QuartzScheduler]-[INFO] - Quartz Scheduler v.2.2.1 created.
+2017-07-26 17:47:08 [org.quartz.simpl.RAMJobStore]-[INFO] - RAMJobStore initialized.
+2017-07-26 17:47:08 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'schedulerBean' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2017-07-26 17:47:08 [org.quartz.impl.StdSchedulerFactory]-[INFO] - Quartz scheduler 'schedulerBean' initialized from an externally provided properties instance.
+2017-07-26 17:47:08 [org.quartz.impl.StdSchedulerFactory]-[INFO] - Quartz scheduler version: 2.2.1
+2017-07-26 17:47:08 [org.quartz.core.QuartzScheduler]-[INFO] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@20d9ed9f
+2017-07-26 17:47:08 [com.zhongxin.quartz.core.DynamicJobAssembler]-[INFO] - 加载定时任务开始
+2017-07-26 17:47:08 [com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource]-[INFO] - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 10, acquireRetryAttempts -> 2, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> z8kflt9pz1i4gt1f7028g|bece9b5, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> z8kflt9pz1i4gt1f7028g|bece9b5, idleConnectionTestPeriod -> 60, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/admintwo?useUnicode=true&characterEncoding=utf-8, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1800, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 335, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 5, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> SELECT 1, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2017-07-26 17:47:09 [com.zhongxin.quartz.core.DynamicJobAssembler]-[INFO] - 定时任务加载完成
+2017-07-26 17:47:09 [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]-[INFO] - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/resumeScheduler/{jobKey}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.resumeScheduler(java.lang.String)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/addScheduler/{jobKey}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.addScheduler(java.lang.String)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/delScheduler/{jobKey}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.delScheduler(java.lang.String)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/resumeSchedulerAll],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.resumeSchedulerAll()
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/testUrl],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.testUrl(javax.servlet.http.HttpServletRequest)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/list/{currentPage}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.zhongxin.quartz.controller.SchedulerController.getTaskInformationsList(int)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/detail/{taskNo}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.zhongxin.quartz.controller.SchedulerController.getTaskDetail(java.lang.String)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/taskEditPage/{id}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.zhongxin.quartz.controller.SchedulerController.taskEditPage(long)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/edit],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.editTaskInfo(com.zhongxin.quartz.entity.TaskInformationsEntity)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/executeOnce/{taskNo}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.executeOnce(java.lang.String)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/checkTaskNo/{taskNo}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.checkTaskNo(java.lang.String)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/taskErrors/getErrors/{recordId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.zhongxin.quartz.controller.TaskErrorsController.getErrors(java.lang.String)
+2017-07-26 17:47:09 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/taskRecords/getTaskRecordsListByTaskNo/{taskNo}/{currentPage}/{status}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.zhongxin.quartz.controller.TaskRecordsController.getTaskRecordsListByTaskNo(java.lang.String,int,java.lang.String)
+2017-07-26 17:47:09 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 17:47:09 [org.springframework.scheduling.quartz.SchedulerFactoryBean]-[INFO] - Starting Quartz Scheduler now
+2017-07-26 17:47:09 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler schedulerBean_$_NON_CLUSTERED started.
+2017-07-26 17:47:09 [org.springframework.web.servlet.DispatcherServlet]-[INFO] - FrameworkServlet 'spring': initialization completed in 1228 ms
+2017-07-26 17:48:20 [com.zhongxin.quartz.controller.SchedulerController]-[INFO] - 增加任务调用开始
+2017-07-26 17:48:20 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[INFO] - task compareAccounts schedulerRule :0 0 2 * * ? reload succeed
+2017-07-26 17:48:20 [com.zhongxin.quartz.controller.SchedulerController]-[INFO] - 增加任务调度成功
+2017-07-26 17:48:24 [com.zhongxin.quartz.controller.SchedulerController]-[INFO] - 增加任务调用开始
+2017-07-26 17:48:24 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[INFO] - task autoReceipt schedulerRule :0 10 0 * * ? reload succeed
+2017-07-26 17:48:24 [com.zhongxin.quartz.controller.SchedulerController]-[INFO] - 增加任务调度成功
+2017-07-26 17:48:29 [com.zhongxin.quartz.controller.SchedulerController]-[INFO] - 增加任务调用开始
+2017-07-26 17:48:29 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[INFO] - task projectPublish schedulerRule :0 */30 * * * ? reload succeed
+2017-07-26 17:48:29 [com.zhongxin.quartz.controller.SchedulerController]-[INFO] - 增加任务调度成功
+2017-07-26 17:48:59 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Closing WebApplicationContext for namespace 'spring-servlet': startup date [Wed Jul 26 17:47:08 CST 2017]; parent: Root WebApplicationContext
+2017-07-26 17:48:59 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Stopping beans in phase 2147483647
+2017-07-26 17:48:59 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler schedulerBean_$_NON_CLUSTERED paused.
+2017-07-26 17:48:59 [org.springframework.scheduling.quartz.SchedulerFactoryBean]-[INFO] - Shutting down Quartz Scheduler
+2017-07-26 17:48:59 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler schedulerBean_$_NON_CLUSTERED shutting down.
+2017-07-26 17:48:59 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler schedulerBean_$_NON_CLUSTERED paused.
+2017-07-26 17:48:59 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler schedulerBean_$_NON_CLUSTERED shutdown complete.
+2017-07-26 17:48:59 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Closing Root WebApplicationContext: startup date [Wed Jul 26 17:47:07 CST 2017]; root of context hierarchy
+2017-07-26 17:48:59 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Stopping beans in phase 2147483647
+2017-07-26 17:49:00 [org.springframework.beans.factory.support.DisposableBeanAdapter]-[WARN] - Invocation of destroy method 'close' failed on bean with name 'sqlSessionTemplate': java.lang.UnsupportedOperationException: Manual close is not allowed over a Spring managed SqlSession
+2017-07-26 17:51:48 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization started
+2017-07-26 17:51:48 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing Root WebApplicationContext: startup date [Wed Jul 26 17:51:48 CST 2017]; root of context hierarchy
+2017-07-26 17:51:48 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/dtd_catalog/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-activemq.xml]
+2017-07-26 17:51:48 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from file [/Users/zhaopan5250/Downloads/dtd_catalog/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-quartz-dao.xml]
+2017-07-26 17:51:48 [org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]-[INFO] - Loading properties file from file [/Users/zhaopan5250/Downloads/dtd_catalog/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/runtimecfg/zx-config.properties]
+2017-07-26 17:51:48 [com.mchange.v2.log.MLog]-[INFO] - MLog clients using log4j logging.
+2017-07-26 17:51:48 [com.mchange.v2.c3p0.C3P0Registry]-[INFO] - Initializing c3p0-0.9.1.1 [built 15-March-2007 01:32:31; debug? true; trace: 10]
+2017-07-26 17:51:49 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 17:51:49 [org.apache.activemq.transport.failover.FailoverTransport]-[INFO] - Successfully connected to tcp://192.168.6.99:61616?wireFormat.maxInactivityDuration=1000
+2017-07-26 17:51:49 [org.springframework.web.context.ContextLoader]-[INFO] - Root WebApplicationContext: initialization completed in 789 ms
+2017-07-26 17:51:49 [org.springframework.web.servlet.DispatcherServlet]-[INFO] - FrameworkServlet 'spring': initialization started
+2017-07-26 17:51:49 [org.springframework.web.context.support.XmlWebApplicationContext]-[INFO] - Refreshing WebApplicationContext for namespace 'spring-servlet': startup date [Wed Jul 26 17:51:49 CST 2017]; parent: Root WebApplicationContext
+2017-07-26 17:51:49 [org.springframework.beans.factory.xml.XmlBeanDefinitionReader]-[INFO] - Loading XML bean definitions from URL [file:/Users/zhaopan5250/Downloads/dtd_catalog/apache-tomcat-7.0.78/webapps/zx-quartz/WEB-INF/classes/spring/spring-mvc.xml]
+2017-07-26 17:51:49 [org.quartz.impl.StdSchedulerFactory]-[INFO] - Using default implementation for ThreadExecutor
+2017-07-26 17:51:49 [org.quartz.core.SchedulerSignalerImpl]-[INFO] - Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2017-07-26 17:51:49 [org.quartz.core.QuartzScheduler]-[INFO] - Quartz Scheduler v.2.2.1 created.
+2017-07-26 17:51:49 [org.quartz.simpl.RAMJobStore]-[INFO] - RAMJobStore initialized.
+2017-07-26 17:51:49 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler meta-data: Quartz Scheduler (v2.2.1) 'schedulerBean' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2017-07-26 17:51:49 [org.quartz.impl.StdSchedulerFactory]-[INFO] - Quartz scheduler 'schedulerBean' initialized from an externally provided properties instance.
+2017-07-26 17:51:49 [org.quartz.impl.StdSchedulerFactory]-[INFO] - Quartz scheduler version: 2.2.1
+2017-07-26 17:51:49 [org.quartz.core.QuartzScheduler]-[INFO] - JobFactory set to: org.springframework.scheduling.quartz.AdaptableJobFactory@35d27cb3
+2017-07-26 17:51:49 [com.zhongxin.quartz.core.DynamicJobAssembler]-[INFO] - 加载定时任务开始
+2017-07-26 17:51:49 [com.mchange.v2.c3p0.impl.AbstractPoolBackedDataSource]-[INFO] - Initializing c3p0 pool... com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 10, acquireRetryAttempts -> 2, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> z8kflt9pz1o5ewf55tw0|5e3114ce, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> com.mysql.jdbc.Driver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> z8kflt9pz1o5ewf55tw0|5e3114ce, idleConnectionTestPeriod -> 60, initialPoolSize -> 10, jdbcUrl -> jdbc:mysql://127.0.0.1:3306/admintwo?useUnicode=true&characterEncoding=utf-8, lastAcquisitionFailureDefaultUser -> null, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 1800, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 335, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 5, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> SELECT 1, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> false, testConnectionOnCheckout -> false, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+2017-07-26 17:51:50 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[INFO] - task projectPublish schedulerRule :0 */30 * * * ? reload succeed
+2017-07-26 17:51:50 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[INFO] - task compareAccounts schedulerRule :0 0 2 * * ? reload succeed
+2017-07-26 17:51:50 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[INFO] - task autoReceipt schedulerRule :0 10 0 * * ? reload succeed
+2017-07-26 17:51:50 [com.zhongxin.quartz.core.DynamicJobAssembler]-[INFO] - 定时任务加载完成
+2017-07-26 17:51:50 [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping]-[INFO] - Mapped URL path [/**] onto handler 'org.springframework.web.servlet.resource.DefaultServletHttpRequestHandler#0'
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/resumeScheduler/{jobKey}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.resumeScheduler(java.lang.String)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/addScheduler/{jobKey}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.addScheduler(java.lang.String)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/delScheduler/{jobKey}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.delScheduler(java.lang.String)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/resumeSchedulerAll],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.resumeSchedulerAll()
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/testUrl],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.testUrl(javax.servlet.http.HttpServletRequest)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/list/{currentPage}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.zhongxin.quartz.controller.SchedulerController.getTaskInformationsList(int)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/detail/{taskNo}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.zhongxin.quartz.controller.SchedulerController.getTaskDetail(java.lang.String)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/taskEditPage/{id}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.zhongxin.quartz.controller.SchedulerController.taskEditPage(long)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/edit],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.editTaskInfo(com.zhongxin.quartz.entity.TaskInformationsEntity)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/executeOnce/{taskNo}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.executeOnce(java.lang.String)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/scheduler/checkTaskNo/{taskNo}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.zhongxin.quartz.controller.SchedulerController.checkTaskNo(java.lang.String)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/taskErrors/getErrors/{recordId}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.zhongxin.quartz.controller.TaskErrorsController.getErrors(java.lang.String)
+2017-07-26 17:51:50 [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping]-[INFO] - Mapped "{[/taskRecords/getTaskRecordsListByTaskNo/{taskNo}/{currentPage}/{status}],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public org.springframework.web.servlet.ModelAndView com.zhongxin.quartz.controller.TaskRecordsController.getTaskRecordsListByTaskNo(java.lang.String,int,java.lang.String)
+2017-07-26 17:51:50 [org.springframework.context.support.DefaultLifecycleProcessor]-[INFO] - Starting beans in phase 2147483647
+2017-07-26 17:51:50 [org.springframework.scheduling.quartz.SchedulerFactoryBean]-[INFO] - Starting Quartz Scheduler now
+2017-07-26 17:51:50 [org.quartz.core.QuartzScheduler]-[INFO] - Scheduler schedulerBean_$_NON_CLUSTERED started.
+2017-07-26 17:51:50 [org.springframework.web.servlet.DispatcherServlet]-[INFO] - FrameworkServlet 'spring': initialization completed in 973 ms
+2017-07-26 18:00:00 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 18:00:00 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[INFO] - timeKeyValue：2017-07-26
+2017-07-26 18:00:00 [org.apache.activemq.transport.failover.FailoverTransport]-[INFO] - Successfully connected to tcp://192.168.6.99:61616?wireFormat.maxInactivityDuration=1000
+2017-07-26 18:00:00 [org.springframework.jms.connection.SingleConnectionFactory]-[INFO] - Established shared JMS Connection: PooledConnection { ConnectionPool[ActiveMQConnection {id=ID:pandy-MacBook-Pro.local-50810-1501062709172-1:2,clientId=null,started=false}] }
+2017-07-26 18:00:00 [com.zhongxin.quartz.service.impl.NoticeServiceImpl]-[INFO] - quartzTopic send succeedprojectPublish,zc-timer,
+2017-07-26 18:56:38 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 18:56:38 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 18:56:38 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
+2017-07-26 19:17:01 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 19:17:01 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 19:17:01 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
+2017-07-26 19:37:21 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 19:37:21 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 19:37:21 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
+2017-07-26 20:04:58 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 20:04:58 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 20:04:58 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
+2017-07-26 20:34:29 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 20:34:29 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 20:34:29 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
+2017-07-26 21:03:59 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 21:03:59 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 21:03:59 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
+2017-07-26 21:30:26 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 21:30:26 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 21:30:26 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
+2017-07-26 22:00:00 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 22:00:00 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 22:00:00 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
+2017-07-26 22:34:30 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 22:34:30 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 22:34:30 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
+2017-07-26 23:04:02 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 23:04:02 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 23:04:02 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
+2017-07-26 23:33:55 [com.zhongxin.quartz.core.QuartzJobFactory]-[INFO] - targetBeanId:projectPublish|executorNo:zc-timer|sendType:mq|executeParamter:|url:
+2017-07-26 23:33:55 [com.zhongxin.quartz.service.impl.QuartzServiceImpl]-[WARN] - taskNo :projectPublish is not exits or taskNo is frozed.
+2017-07-26 23:33:55 [com.zhongxin.quartz.core.QuartzJobFactory]-[ERROR] - targetBeanId:projectPublish record error return
