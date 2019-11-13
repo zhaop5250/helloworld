@@ -1,0 +1,11 @@
+package com.hbase.test;
+
+message pdetail {
+	required string pnum = 1;
+	required string time = 2;
+	required string type = 3;
+}
+
+message pday {
+	repeated pdetail plist = 1;
+}
